@@ -15,9 +15,9 @@ restoPDias = restoPMeses % 30;
 dias = restoPDias;
 
 console.log("#===========================================================================================================#");
-console.log("A quantidade de anos é: " + parseInt(anos));
-console.log("O número de meses é: " + parseInt(meses));
-console.log("A quantidade de dias é:" + parseInt(dias));
+console.log(parseInt(anos) + " ano(s)");
+console.log(parseInt(meses) + " mes(es)");
+console.log(parseInt(dias) + " mes(es)");
 console.log("#===========================================================================================================#");
 
 let idadeDias1 = 800, anos1, restoPMeses1, meses1, restoPDias1, dias1; // Variáveis letra B
@@ -29,9 +29,9 @@ meses1 = restoPMeses1/30;
 restoPDias1 = restoPMeses1 % 30;
 dias1 = restoPDias1;
 console.log("#===========================================================================================================#");
-console.log("A quantidade de anos é: " + parseInt(anos1));
-console.log("O número de meses é: " + parseInt(meses1));
-console.log("A quantidade de dias é:" + parseInt(dias1));
+console.log(parseInt(anos1) + " ano(s)");
+console.log(parseInt(meses1) + " mes(es)");
+console.log(parseInt(dias1) + " mes(es)");
 console.log("#===========================================================================================================#");
 
 let idadeDias2 = 30, anos2, restoPMeses2, meses2, restoPDias2, dias2; // Variáveis letra C
@@ -43,7 +43,7 @@ meses2 = restoPMeses2/30;
 restoPDias2 = restoPMeses2 % 30;
 dias2 = restoPDias2;
 console.log("#===========================================================================================================#");
-console.log("A quantidade de anos é: " + parseInt(anos2));
-console.log("O número de meses é: " + parseInt(meses2));
-console.log("A quantidade de dias é:" + parseInt(dias2));
+console.log(parseInt(anos2) + " ano(s)");
+console.log(parseInt(meses2) + " mes(es)");
+console.log(parseInt(dias2) + " mes(es)");
 console.log("#===========================================================================================================#");
