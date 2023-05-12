@@ -7,11 +7,11 @@ aux = n1 % n2;
 
 console.log("#==============================================#");
 if (aux == 0){
-    console.log(n1 + " " + n2 + " são múltiplos! ");
+    console.log(n1 + " e " + n2 + " são múltiplos! ");
     console.log("#==============================================#");
     }
 else{
-    console.log(n1 + " " + n2 + " não são múltiplos! ");
+    console.log(n1 + " e " + n2 + " não são múltiplos! ");
     console.log("#==============================================#");
     }
 
